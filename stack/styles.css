@@ -1,0 +1,23 @@
+.hyt
+{
+background-color: rgb(107, 49, 49);
+   color: black;
+   
+}
+  
+  p 
+{
+ background-color: darkgoldenrod;
+ font-style: italic,bold;
+}
+.ama
+{width: 100px;
+  height: 50px;
+    border-style:5px dotted;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(12, 69, 80);
+    color: white;
+    border-radius:80%;
+    
+
+}
